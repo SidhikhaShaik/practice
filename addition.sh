@@ -13,3 +13,5 @@ esac
 done
 ((result=x+y))
 echo "X+Y=$result"
+echo "Y+X=$result"
+
